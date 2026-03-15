@@ -15,4 +15,3 @@ def emotion_detector(text_to_analyze):
     emotions["dominant_emotion"] = dominant_emotion
 
     return emotions
-
